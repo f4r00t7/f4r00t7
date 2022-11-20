@@ -10,6 +10,7 @@
 estudando cyber security... 
 
 - Tools:  
+ 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15"/> <b>GitHub</b> <br />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15"/> <b>VScode</b> <br />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="15"/> <b>Linux</b> <br />
