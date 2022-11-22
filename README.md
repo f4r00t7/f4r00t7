@@ -7,7 +7,7 @@
 
 **I'm f4r00t**  
 17y   
-estudando cyber security... 
+estudando... 
 
 - Tools:  
  
